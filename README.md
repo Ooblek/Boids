@@ -1,2 +1,2 @@
 # Boids
-Boids using Craig reynolds' steering behaviours using Processing
+Boids using Craig reynolds' steering behaviours in Processing
